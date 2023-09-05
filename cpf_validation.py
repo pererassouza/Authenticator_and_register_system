@@ -8,7 +8,7 @@ class Verificador():
         import re
         import sys  
 
-        entrada = "16257316866"
+        entrada = self.ccpf
         cpf_enviado_usuario = re.sub(
             r'[^0-9]',
             '',
@@ -45,9 +45,6 @@ class Verificador():
 
         if entrada == cpf_gerado_pelo_calculo:
             Verificador.list_of_cpf.append(entrada)
-            print("Valido")
             return True
         else:
-            print("invalido")
-
             return False

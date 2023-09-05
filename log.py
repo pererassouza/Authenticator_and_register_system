@@ -18,7 +18,7 @@ class LogFile(Log):
     def _log(self, msg):
         _msg = f"{msg}"
         print("Salving on log => ", _msg, "=====================================\n")
-        with open("log.txt", "a") as arquivo:
+        with open("log.log", "a") as arquivo:
             arquivo.write(f"{_msg}  => {agora_str}\n")
             arquivo.write("\n")
 
