@@ -1,0 +1,600 @@
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:02
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:02
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:02 
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:02
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:02
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:05
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:05
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:05
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:05
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:05
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:06
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:06
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:06
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:06
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:06
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:06
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:06
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:06
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:06
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:06
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:11
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:11
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:11
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:11
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:11
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:13
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:13
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:13
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:13
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:13
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:17
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:17
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:17
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:17
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:17
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:17
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:19
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:19
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:19
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:19
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:19
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:19
+
+Failure: Ana Beatriz  registration failed! (Is Minor)
+  => 01/ 09/ 2023 23:19
+
+Succsess: Jhon Mark successfully registered!
+  => 01/ 09/ 2023 23:20
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Michael Jackson registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:20
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:20
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:20
+
+Failure: Ana Beatriz  registration failed! (Is Minor)
+  => 01/ 09/ 2023 23:20
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:20
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:21
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:22
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:24
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:25
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:27
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:28
+
+Failure: Jhon Mark registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: Chloe Borjuar registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: Shophia Jhonson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: Michael Jackson registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: Ana Beatriz  registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Failure: das das registration failed! (Invalid cpf)
+  => 01/ 09/ 2023 23:29
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:31
+
+Succsess: Caroline Souza successfully registered!
+  => 01/ 09/ 2023 23:31
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:31
+
+Succsess: Caroline Souza successfully registered!
+  => 01/ 09/ 2023 23:31
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:33
+
+Succsess: Caroline Souza successfully registered!
+  => 01/ 09/ 2023 23:33
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 01/ 09/ 2023 23:33
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:33
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 01/ 09/ 2023 23:33
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:33
+
+Succsess: Caroline Souza successfully registered!
+  => 01/ 09/ 2023 23:33
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 01/ 09/ 2023 23:33
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:33
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 01/ 09/ 2023 23:33
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:34
+
+Succsess: Caroline Souza successfully registered!
+  => 01/ 09/ 2023 23:34
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 01/ 09/ 2023 23:34
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:34
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 01/ 09/ 2023 23:34
+
+Succsess: Felipe Pereira successfully registered!
+  => 01/ 09/ 2023 23:37
+
+Succsess: Caroline Souza successfully registered!
+  => 01/ 09/ 2023 23:37
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 01/ 09/ 2023 23:37
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 01/ 09/ 2023 23:37
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 01/ 09/ 2023 23:37
+
+Succsess: Felipe Pereira successfully registered!
+  => 02/ 09/ 2023 15:53
+
+Succsess: Caroline Souza successfully registered!
+  => 02/ 09/ 2023 15:53
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 02/ 09/ 2023 15:53
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 02/ 09/ 2023 15:53
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 02/ 09/ 2023 15:53
+
+Succsess: Felipe Pereira successfully registered!
+  => 02/ 09/ 2023 15:56
+
+Succsess: Caroline Souza successfully registered!
+  => 02/ 09/ 2023 15:56
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 02/ 09/ 2023 15:56
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 02/ 09/ 2023 15:56
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 02/ 09/ 2023 15:56
+
+Succsess: Felipe Pereira successfully registered!
+  => 02/ 09/ 2023 15:57
+
+Succsess: Caroline Souza successfully registered!
+  => 02/ 09/ 2023 15:57
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 02/ 09/ 2023 15:57
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 02/ 09/ 2023 15:57
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 02/ 09/ 2023 15:57
+
+Succsess: Felipe Pereira successfully registered!
+  => 02/ 09/ 2023 15:58
+
+Succsess: Caroline Souza successfully registered!
+  => 02/ 09/ 2023 15:58
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 02/ 09/ 2023 15:58
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 02/ 09/ 2023 15:58
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 02/ 09/ 2023 15:58
+
+Succsess: Felipe Pereira successfully registered!
+  => 02/ 09/ 2023 15:59
+
+Succsess: Caroline Souza successfully registered!
+  => 02/ 09/ 2023 15:59
+
+Succsess: Carlos Rodrigues successfully registered!
+  => 02/ 09/ 2023 15:59
+
+Failure: Caroline Souza registration failed! (Duplicated CPF)
+  => 02/ 09/ 2023 15:59
+
+Failure: Henry Cardoso registration failed! (Is Minor)
+  => 02/ 09/ 2023 15:59
+
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:12
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:12
+
+Failure: Carlos Rodrigues registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:12
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:12
+
+Failure: Henry Cardoso registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:12
+
