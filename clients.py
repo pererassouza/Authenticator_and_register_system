@@ -40,6 +40,21 @@ class Clients(People, LogFile):
             duplicated_cpf = self.invalid_cpf and self.duplicated_cpf
             invalid_cpf = self.invalid_cpf and not self.duplicated_cpf
             is_minor = self.minor
+            not_auth = self.auth
+
+            # booll = [duplicated_cpf, invalid_cpf, is_minor, not_auth]
+
+            # values = {
+            #     duplicated_cpf: self._log_failure,
+            #     invalid_cpf: self._log_failure,
+            #     is_minor: self._log_failure,
+            #     not_auth: self._log_failure
+            # }
+            # for i in booll:
+            #     if i in values and i is True:
+            #         i(f"{self.name} {self.middlename} registration failed! (Duplicated CPF)\n")
+
+
             if duplicated_cpf:
                 msg = f"{self.name} {self.middlename} registration failed! (Duplicated CPF)\n"
                 self._log_failure(msg)
@@ -52,8 +67,11 @@ class Clients(People, LogFile):
                 msg = f"{self.name} {self.middlename} registration failed! (Is Minor)\n"
                 self._log_failure(msg)
                 return False
-            else:
+            elif not_auth:
                 msg = f"{self.name} {self.middlename} registration failed! (Not Authenticated)\n"
                 self._log_failure(msg)  
                 return False         
 
+# c1 = Clients("das", "das" , "das", "23864088844", "dsa", "das")
+# c1.authentication_client
+# c1.logger()
