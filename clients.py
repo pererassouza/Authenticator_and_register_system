@@ -37,15 +37,18 @@ class Clients(People, LogFile):
             return True
 
         if not self.auth:
-            if self.invalid_cpf and self.duplicated_cpf:
+            duplicated_cpf = self.invalid_cpf and self.duplicated_cpf
+            invalid_cpf = self.invalid_cpf and not self.duplicated_cpf
+            is_minor = self.minor
+            if duplicated_cpf:
                 msg = f"{self.name} {self.middlename} registration failed! (Duplicated CPF)\n"
                 self._log_failure(msg)
                 return False
-            elif self.invalid_cpf and not self.duplicated_cpf:
+            elif invalid_cpf:
                 msg = f"{self.name} {self.middlename} registration failed! (Invalid cpf)\n"
                 self._log_failure(msg)
                 return
-            elif self.minor:
+            elif is_minor:
                 msg = f"{self.name} {self.middlename} registration failed! (Is Minor)\n"
                 self._log_failure(msg)
                 return False

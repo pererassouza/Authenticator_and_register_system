@@ -598,3 +598,18 @@ Failure: Caroline Souza registration failed! (Invalid cpf)
 Failure: Henry Cardoso registration failed! (Invalid cpf)
   => 04/ 09/ 2023 22:12
 
+Failure: Felipe Pereira registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:26
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:26
+
+Failure: Carlos Rodrigues registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:26
+
+Failure: Caroline Souza registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:26
+
+Failure: Henry Cardoso registration failed! (Invalid cpf)
+  => 04/ 09/ 2023 22:26
+
