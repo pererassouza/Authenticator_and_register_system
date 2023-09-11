@@ -1,16 +1,15 @@
-duplicated_cpf =False
-invalid_cpf = False
-is_minor = False
-not_auth = False
+from dados import Registrados
+import pandas as pd
 
-valores  =[duplicated_cpf, invalid_cpf, is_minor, not_auth]
-values = {
-    duplicated_cpf: print( f"registration failed! (Duplicated CPF)\n"),
-    invalid_cpf: print(f" registration failed! (Invalid cpf)\n"),
-    is_minor: print(f"registration failed! (Is Minor)\n"),
-    not_auth: print(f"registration failed! (Not Authenticated)\n")
-}
+def Organizar():
+    tabela = pd.read_excel("Dados\\clientes_registrados.xlsx")
 
-for i in valores:
-    if i in values and i is True:
-       i()
+    for i in tabela.index:
+        senha = tabela.at[i, "Password"]
+        cpf = tabela.at[i, "CPF"]
+        print(cpf, senha)
+        print("=================================")
+
+
+
+Organizar()

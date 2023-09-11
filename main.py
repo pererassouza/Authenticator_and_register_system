@@ -1,38 +1,55 @@
 import os
 # from clients import Clients
 from Script_Clients.clients import Clients
+from people import People
+import random
 import pandas as pd
-os.system("cls")
-logger =False
+class Registro(Clients):
+    def __init__(self):
+        os.system("cls")
+        logger =False
 
-clients = pd.read_excel(r"Dados\clientes.xlsx")
-registred_clients = pd.read_excel(r"Dados\clientes_registrados.xlsx") 
+        clients = pd.read_excel(r"Dados\clientes.xlsx")
+        registred_clients = pd.read_excel(r"Dados\clientes_registrados.xlsx") 
 
+        def criar_senha():
+            senha = ''
+            for i in range(4):
+                senha += str(random.randint(0,9,))
+            return senha
 
-clientes  =[]
-for linha, coluna in clients.iterrows():
-    name = coluna["Name"]
-    middlename = coluna["Middlename"]
-    age = coluna["Age"]
-    cpf = str(coluna["CPF"])
-    heigth = coluna["Height"]
-    rg = coluna["RG"]
+        clientes  =[]
+        for linha, coluna in clients.iterrows():
+            name = coluna["Name"]
+            middlename = coluna["Middlename"]
+            age = coluna["Age"]
+            cpf = str(coluna["CPF"])
+            heigth = coluna["Height"]
+            rg = coluna["RG"]
+            
+            if cpf not in str(registred_clients["CPF"]):        
 
-    cliente = Clients(name= name, middlename= middlename, age=age, cpf=cpf, height=heigth, rg=rg)
-    clientes.append(cliente)   
-    cliente.authentication_client
+                cliente = Clients(name= name, middlename= middlename, age=age, cpf=cpf, height=heigth, rg=rg)
+                clientes.append(cliente)   
+                cliente.authentication_client
 
-    if cliente.logger():
-        logger = True
-    else:
-        logger = False
+                if cliente.logger():
+                    logger = True
+                else:
+                    logger = False
 
-    if logger:
-        nova_linha = {"Name": name, "Middlename": middlename, "Age": int(age), "Height": float(heigth), "CPF": int(cpf), "RG": int(rg)}
-        registred_clients = registred_clients._append(nova_linha, ignore_index=True)
-        registred_clients.drop_duplicates(subset=["CPF"], keep="last", inplace = True)
-        registred_clients.to_excel(r"Dados\clientes_registrados.xlsx",sheet_name="teste",index = False)
+                if logger:
+                    
+                    nova_linha = {"Name": name, "Middlename": middlename, "Age": int(age), "Height": float(heigth), "CPF": int(cpf), "RG": int(rg), "Password": criar_senha()}
+                    registred_clients = registred_clients._append(nova_linha, ignore_index=True)
+                    registred_clients.drop_duplicates(subset=["CPF"], keep="last", inplace = True)
+                    registred_clients.to_excel(r"Dados\clientes_registrados.xlsx",sheet_name="teste",index = False)
 
+            else:
+                print(f"{name} {middlename} duplicated cpf!")
+                msg = f"{name} {middlename} registration failed! (Duplicated CPF)\n"
+                self._log_failure(msg)
+Registro()
 
 
     # registred_clients = pd.concat([registred_clients, novos_dados], ignore_index= True)
