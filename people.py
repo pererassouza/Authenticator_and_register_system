@@ -1,5 +1,5 @@
 # from cpf_validation import Verificador
-from Script_Clients.cpf_validation import Verificador
+from Packages.cpf_validation import Verificador
 class People():
     def __init__(self, name, middlename, age, cpf,height, rg) -> None:
         self.name = name

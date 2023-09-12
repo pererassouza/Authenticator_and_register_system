@@ -1,7 +1,6 @@
 import os
 # from clients import Clients
 from Script_Clients.clients import Clients
-from people import People
 import random
 import pandas as pd
 class Registro(Clients):

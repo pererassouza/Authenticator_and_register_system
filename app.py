@@ -1,5 +1,5 @@
 from tkinter import *
-from dados import Registrados
+from Packages.dados import Registrados
 
 class Aplication:
     def __init__(self, master = None):
@@ -55,8 +55,7 @@ class Aplication:
         self.botao.pack()
 
         self.texto = Label(self.quarto_container, text="", font=self.fonte)
-        self.texto.pack()
-    
+        self.texto.pack()    
 
 
     def Verificar(self):
@@ -74,21 +73,10 @@ class Aplication:
 
         elif dicionario[cpf] == senha:
             self.texto["text"] = "Autenticado"
+
         else:
             self.texto["text"] = "Não autenticado"
-            
-
-                
-
-        # if cpf == "" or senha == "":
-        #     self.texto["text"] = "Não autenticado"
-        # elif cpf not in self.cpf_cliente_registrados or senha not in self.senha_cliente_registrados:
-        #     self.texto["text"] = "Não autenticado"
-        # else:
-        #     self.texto["text"] = "Autenticado"
-
-
-
+    
 root = Tk()
 Aplication(root)
 root.mainloop()
