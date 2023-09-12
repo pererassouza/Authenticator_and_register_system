@@ -3,8 +3,6 @@ from Packages.dados import Registrados
 
 class Aplication:
     def __init__(self, master = None):
-        self.cpf_cliente_registrados = str(Registrados.registrados["CPF"].to_list())
-        self.senha_cliente_registrados = str(Registrados.registrados["Password"].to_list())
         self.fonte = ("Arial", "10")
 
         self.primeiro_conteiner = Frame(master)
@@ -67,7 +65,12 @@ class Aplication:
             cpf_registrados = str(tabela.at[i, "CPF"])
             senha_registrados = str(tabela.at[i, "Password"])
             dicionario.update({cpf_registrados: senha_registrados})
+    
         if senha == "" or cpf == "":
+            self.texto["text"] = "Não autenticado"
+            return
+        
+        elif cpf not in dicionario.keys():
             self.texto["text"] = "Não autenticado"
             return
 
